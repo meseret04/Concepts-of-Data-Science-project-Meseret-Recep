@@ -3,5 +3,5 @@ This is a project regarding developing a Python class for self-balancing AVL tre
 
 Project Work Plan:
 
-Recep: README.md, rotating/self balancing, visualisation, insert, ANALYSIS.md
+Recep: README.md, rotating/self balancing, visualisation, insert, ANALYSIS.md \\
 Meseret: Search and remove methods, README_DEV.md
